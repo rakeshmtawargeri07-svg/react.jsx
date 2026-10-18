@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { createContext, useState } from 'react'
 import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
@@ -32,3 +33,21 @@ const [theme,setthem]=useState('light')
 export default App
 // export {UserContext }
 export{ThemeContext}
+=======
+import React from 'react'
+import Usercard from './components/Usercard'
+import "./App.css"
+
+function App() {
+
+  return (
+    <div ClassName="dabba">
+      <Usercard name ="rakesh"/>
+      <Usercard name="ramu"/>
+      <Usercard name="lama"/>
+    </div>
+  )
+}
+
+export default App
+>>>>>>> 77aa076d1af0303e43bd667c1b78e57a7dd74706

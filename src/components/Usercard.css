@@ -1,0 +1,17 @@
+.user-card{
+    background-color: #9a1a1a;
+    padding: 20px;
+    color: white;   
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1.5rem;
+    margin: 20px;
+}
+
+#userimg{
+    border-radius: 50%;
+    height:100px
+
+
+}

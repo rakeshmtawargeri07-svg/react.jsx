@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #container{
     height:200px;
     width: 200px;
@@ -7,4 +8,11 @@
     justify-content: center;
     align-items: center;
     background: black;
+=======
+.dabba{
+  background-color: brown;
+  display:flex;
+  flex-wrap:wrap;
+  gap:40px;
+>>>>>>> 77aa076d1af0303e43bd667c1b78e57a7dd74706
 }
