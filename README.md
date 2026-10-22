@@ -11,7 +11,6 @@ HEAD
 ## React Compiler
 =======
 ## React Compiler 
->>>>>>> 77aa076d1af0303e43bd667c1b78e57a7dd74706
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
