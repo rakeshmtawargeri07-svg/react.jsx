@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { createContext, useState } from 'react'
 import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
@@ -50,4 +50,4 @@ function App() {
 }
 
 export default App
->>>>>>> 77aa076d1af0303e43bd667c1b78e57a7dd74706
+
