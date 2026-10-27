@@ -32,7 +32,6 @@ const [theme,setthem]=useState('light')
 export default App
 // export {UserContext }
 export{ThemeContext}
-=======
 import React from 'react'
 import Usercard from './components/Usercard'
 import "./App.css"
@@ -49,4 +48,3 @@ function App() {
 }
 
 export default App
-
