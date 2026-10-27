@@ -6,13 +6,13 @@ import viteLogo from './assets/vite.svg'
 import './App.css'
 import ChildA from './components/ChildA';
 import { useContext } from 'react'
-
+  
 //step1:usercontext syntax
 // const UserContext=createContext();
 //step2:write component thorugh which we want to share datain provider
 //step3:pass name value through usestate
 //step4:take value in consumer
-
+  
 const ThemeContext=createContext();
 function App() {
   
